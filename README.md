@@ -55,7 +55,7 @@ Todome removes that friction:
 
 2. Run the installer
 
-3. Launch the app — that’s it
+3. Launch the app :)
 
 ---
 
@@ -77,6 +77,17 @@ Todome will automatically sort these by importance.
 
 ---
 
-## 📄 License
+## 📬 Feedback & Support
+
+If you encounter bugs or have suggestions, feel free to reach out:
+
+- GitHub Issues: https://github.com/sarahmorar/todome/issues
+- Email: sarah.todome@gmail.com
+
+Feedback is appreciated!
+
+---
+
+## License
 
 MIT
