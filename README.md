@@ -51,7 +51,7 @@ Todome removes that friction:
 ## Download & Run
 
 1. Download the latest release:
-   👉 **[Download Todome](./release/Todome%20Setup.exe)**
+   👉 **[Download Todome](https://github.com/sarahmorar/todome/releases/tag/v1.0.0)**
 
 2. Run the installer
 
