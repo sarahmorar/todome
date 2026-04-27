@@ -77,7 +77,7 @@ Todome will automatically sort these by importance.
 
 ---
 
-## 📬 Feedback & Support
+## Feedback & Support
 
 If you encounter bugs or have suggestions, feel free to reach out:
 
