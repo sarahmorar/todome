@@ -2,6 +2,8 @@
 
 A smart to-do app that automatically prioritizes your tasks so you can focus on what actually matters.
 
+Currently available for Windows only. 
+
 ---
 
 ## What it does
