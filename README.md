@@ -83,6 +83,7 @@ Todome will automatically sort these by importance.
 
 If you encounter bugs or have suggestions, feel free to reach out:
 
+- Google Form: https://forms.gle/jmXoDJ5cbo37LZix7
 - GitHub Issues: https://github.com/sarahmorar/todome/issues
 - Email: sarah.todome@gmail.com
 
